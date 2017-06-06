@@ -1,0 +1,30 @@
+
+Total years of work experience : 6
+
+Primary skill sets:
+Scripting: Python, shell, javascript.
+Database: DB2, Teradata, exposure on no-sql based db's.
+Working experience in AWS: EC2, EMR, Redshift, Lambda, S3, Cloud watch, Cloud formation, ELB.
+ 
+Overview:
+L3's aid and analysis tool (Echo) (early 2017):
+Echo an in house tool designed to aid Level 3 with metrics, impact analysis and development teams to effectively monitor job status from various different schedulers.
+I have led the team and owned creation of health check framework for apps, securing apps via SSL, devops activity with chef.
+Stack: Python, Scala - spark, Kafka, Node js, Chef, AWS - Lambda, S3, ELB, EC2, Cloud Formation, Cloud watcher.
+ 
+ETL based on open source (Octon) (mid 2016):
+Had involved in a 4 member ambitious team to create a python (pandas) based ETL utility. Which will have pluggable components similar to other ETL tools. I was owning transformation component (simple & extended) , source and target components and also created parser and json validator for the utility.
+Stack: Python, Pandas
+ 
+Hadoop based POC (Polypath - An aggregator application used to analyze liability) (early 2016):
+Polypath an aggregator application was executing in Abinitio utilizing data from oracle, I was part of a 3 member team which created an open source stack. POC involves data cleansing, validation with in house DQ framework and loading it into Redshift utilizing AWS platform for all of this operation.
+Stack: AWS - Lambda, S3, SQS and EMR; python, korn-shell scripting.
+ 
+Infrastructure project (DDE High Availability) (2015-2016):
+Worked in DDE HA infrastructure were the scope is to fork lift legacy unix based production server to hadoop based environment without impacting existing apps.
+Few of the major area includes - Analysis of 50k jobs, automation of code changes and testing, design and development of on-fly tokenization.
+Stack: korn-shell scripting, Abinitio, AWS-S3 and glacier CLI.
+ 
+Level 3 support (ODS) (2011-2015):
+Started my career in cognizant with L3 support in Abinitio, where my primary role involved break fix, DQ analysis and fix, control m schedule issues. I have also performed minor enhancements in Abinitio graphs and shell scripts.
+Stack: korn-shell scripting, Abinitio, Teradata, DB2, mainframe, control-m.
